@@ -1,0 +1,2 @@
+F:/mingw64/bin/ar.exe qc F:/Learning/CMake/CMakeTutorials/Project5/libcalc.a CMakeFiles/calc.dir/src/add.cpp.obj CMakeFiles/calc.dir/src/div.cpp.obj CMakeFiles/calc.dir/src/main.cpp.obj CMakeFiles/calc.dir/src/mult.cpp.obj CMakeFiles/calc.dir/src/sub.cpp.obj
+F:/mingw64/bin/ranlib.exe F:/Learning/CMake/CMakeTutorials/Project5/libcalc.a
